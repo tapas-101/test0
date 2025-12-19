@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 tapas kumar maharana
 TAPAS
-=======
-tapas kumar maharana 
 TAPAS KUMAR MAHARANA
->>>>>>> c142cb8e4004a6264cf38279b2ddcd530edb692a
+
